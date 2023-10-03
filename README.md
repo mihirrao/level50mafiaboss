@@ -5,7 +5,6 @@ Compressed + Typed Notes
 ### Plan in chronological order
 #### Season 1
 Real Analysis - Gunning <  
-
 Linear Algebra - Axler  
 Prob + Random Processes - ORF309  
 Information theory - MacKay  
