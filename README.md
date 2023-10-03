@@ -1,8 +1,8 @@
 ## Contents
-### Daily Progress Log
-### Compressed + Typed Notes
+Daily Progress Log  
+Compressed + Typed Notes
 
-## Plan in chronological order
+### Plan in chronological order
 #### Season 1
 Real Analysis - Gunning <  
 
